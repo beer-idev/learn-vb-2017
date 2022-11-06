@@ -1,0 +1,9 @@
+D:\VB_NET\testString\testString\bin\Debug\testString.exe
+D:\VB_NET\testString\testString\bin\Debug\testString.pdb
+D:\VB_NET\testString\testString\bin\Debug\testString.xml
+D:\VB_NET\testString\testString\obj\x86\Debug\testString.Form1.resources
+D:\VB_NET\testString\testString\obj\x86\Debug\testString.Resources.resources
+D:\VB_NET\testString\testString\obj\x86\Debug\testString.vbproj.GenerateResource.Cache
+D:\VB_NET\testString\testString\obj\x86\Debug\testString.exe
+D:\VB_NET\testString\testString\obj\x86\Debug\testString.xml
+D:\VB_NET\testString\testString\obj\x86\Debug\testString.pdb

@@ -1,0 +1,9 @@
+D:\VB_NET\testListBox\testListBox\bin\Debug\testListBox.exe
+D:\VB_NET\testListBox\testListBox\bin\Debug\testListBox.pdb
+D:\VB_NET\testListBox\testListBox\bin\Debug\testListBox.xml
+D:\VB_NET\testListBox\testListBox\obj\x86\Debug\testListBox.Form1.resources
+D:\VB_NET\testListBox\testListBox\obj\x86\Debug\testListBox.Resources.resources
+D:\VB_NET\testListBox\testListBox\obj\x86\Debug\testListBox.vbproj.GenerateResource.Cache
+D:\VB_NET\testListBox\testListBox\obj\x86\Debug\testListBox.exe
+D:\VB_NET\testListBox\testListBox\obj\x86\Debug\testListBox.xml
+D:\VB_NET\testListBox\testListBox\obj\x86\Debug\testListBox.pdb

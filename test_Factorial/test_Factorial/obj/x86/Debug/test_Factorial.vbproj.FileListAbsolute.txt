@@ -1,0 +1,9 @@
+D:\VB_NET\test_Factorial\test_Factorial\bin\Debug\test_Factorial.exe
+D:\VB_NET\test_Factorial\test_Factorial\bin\Debug\test_Factorial.pdb
+D:\VB_NET\test_Factorial\test_Factorial\bin\Debug\test_Factorial.xml
+D:\VB_NET\test_Factorial\test_Factorial\obj\x86\Debug\test_Factorial.Form1.resources
+D:\VB_NET\test_Factorial\test_Factorial\obj\x86\Debug\test_Factorial.Resources.resources
+D:\VB_NET\test_Factorial\test_Factorial\obj\x86\Debug\test_Factorial.vbproj.GenerateResource.Cache
+D:\VB_NET\test_Factorial\test_Factorial\obj\x86\Debug\test_Factorial.exe
+D:\VB_NET\test_Factorial\test_Factorial\obj\x86\Debug\test_Factorial.xml
+D:\VB_NET\test_Factorial\test_Factorial\obj\x86\Debug\test_Factorial.pdb

@@ -1,0 +1,9 @@
+D:\VB_NET\testPicture\testPicture\bin\Debug\testPicture.exe
+D:\VB_NET\testPicture\testPicture\bin\Debug\testPicture.pdb
+D:\VB_NET\testPicture\testPicture\bin\Debug\testPicture.xml
+D:\VB_NET\testPicture\testPicture\obj\x86\Debug\testPicture.btnImage.resources
+D:\VB_NET\testPicture\testPicture\obj\x86\Debug\testPicture.Resources.resources
+D:\VB_NET\testPicture\testPicture\obj\x86\Debug\testPicture.vbproj.GenerateResource.Cache
+D:\VB_NET\testPicture\testPicture\obj\x86\Debug\testPicture.exe
+D:\VB_NET\testPicture\testPicture\obj\x86\Debug\testPicture.xml
+D:\VB_NET\testPicture\testPicture\obj\x86\Debug\testPicture.pdb

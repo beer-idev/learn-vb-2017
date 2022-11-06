@@ -1,0 +1,9 @@
+D:\VB_NET\testRadio\testRadio\bin\Debug\testRadio.exe
+D:\VB_NET\testRadio\testRadio\bin\Debug\testRadio.pdb
+D:\VB_NET\testRadio\testRadio\bin\Debug\testRadio.xml
+D:\VB_NET\testRadio\testRadio\obj\x86\Debug\testRadio.Form1.resources
+D:\VB_NET\testRadio\testRadio\obj\x86\Debug\testRadio.Resources.resources
+D:\VB_NET\testRadio\testRadio\obj\x86\Debug\testRadio.vbproj.GenerateResource.Cache
+D:\VB_NET\testRadio\testRadio\obj\x86\Debug\testRadio.exe
+D:\VB_NET\testRadio\testRadio\obj\x86\Debug\testRadio.xml
+D:\VB_NET\testRadio\testRadio\obj\x86\Debug\testRadio.pdb

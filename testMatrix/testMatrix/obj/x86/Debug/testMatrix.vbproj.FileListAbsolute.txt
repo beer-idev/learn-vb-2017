@@ -1,0 +1,9 @@
+D:\VB_NET\testMatrix\testMatrix\bin\Debug\testMatrix.exe
+D:\VB_NET\testMatrix\testMatrix\bin\Debug\testMatrix.pdb
+D:\VB_NET\testMatrix\testMatrix\bin\Debug\testMatrix.xml
+D:\VB_NET\testMatrix\testMatrix\obj\x86\Debug\testMatrix.Form1.resources
+D:\VB_NET\testMatrix\testMatrix\obj\x86\Debug\testMatrix.Resources.resources
+D:\VB_NET\testMatrix\testMatrix\obj\x86\Debug\testMatrix.vbproj.GenerateResource.Cache
+D:\VB_NET\testMatrix\testMatrix\obj\x86\Debug\testMatrix.exe
+D:\VB_NET\testMatrix\testMatrix\obj\x86\Debug\testMatrix.xml
+D:\VB_NET\testMatrix\testMatrix\obj\x86\Debug\testMatrix.pdb

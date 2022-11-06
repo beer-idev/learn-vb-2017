@@ -1,0 +1,9 @@
+D:\VB_NET\testStack\testStack\bin\Debug\testStack.exe
+D:\VB_NET\testStack\testStack\bin\Debug\testStack.pdb
+D:\VB_NET\testStack\testStack\bin\Debug\testStack.xml
+D:\VB_NET\testStack\testStack\obj\x86\Debug\testStack.Form1.resources
+D:\VB_NET\testStack\testStack\obj\x86\Debug\testStack.Resources.resources
+D:\VB_NET\testStack\testStack\obj\x86\Debug\testStack.vbproj.GenerateResource.Cache
+D:\VB_NET\testStack\testStack\obj\x86\Debug\testStack.exe
+D:\VB_NET\testStack\testStack\obj\x86\Debug\testStack.xml
+D:\VB_NET\testStack\testStack\obj\x86\Debug\testStack.pdb

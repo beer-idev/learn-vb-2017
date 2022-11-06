@@ -1,0 +1,9 @@
+D:\VB_NET\testSort\testSort\bin\Debug\testSort.exe
+D:\VB_NET\testSort\testSort\bin\Debug\testSort.pdb
+D:\VB_NET\testSort\testSort\bin\Debug\testSort.xml
+D:\VB_NET\testSort\testSort\obj\x86\Debug\testSort.Form1.resources
+D:\VB_NET\testSort\testSort\obj\x86\Debug\testSort.Resources.resources
+D:\VB_NET\testSort\testSort\obj\x86\Debug\testSort.vbproj.GenerateResource.Cache
+D:\VB_NET\testSort\testSort\obj\x86\Debug\testSort.exe
+D:\VB_NET\testSort\testSort\obj\x86\Debug\testSort.xml
+D:\VB_NET\testSort\testSort\obj\x86\Debug\testSort.pdb

@@ -1,0 +1,10 @@
+D:\VB_NET\testForm\testForm\obj\x86\Debug\testForm.exe
+D:\VB_NET\testForm\testForm\obj\x86\Debug\testForm.xml
+D:\VB_NET\testForm\testForm\obj\x86\Debug\testForm.pdb
+D:\VB_NET\testForm\testForm\bin\Debug\testForm.exe
+D:\VB_NET\testForm\testForm\bin\Debug\testForm.pdb
+D:\VB_NET\testForm\testForm\bin\Debug\testForm.xml
+D:\VB_NET\testForm\testForm\obj\x86\Debug\testForm.Form1.resources
+D:\VB_NET\testForm\testForm\obj\x86\Debug\testForm.Form2.resources
+D:\VB_NET\testForm\testForm\obj\x86\Debug\testForm.Resources.resources
+D:\VB_NET\testForm\testForm\obj\x86\Debug\testForm.vbproj.GenerateResource.Cache

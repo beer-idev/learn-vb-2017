@@ -1,0 +1,9 @@
+D:\VB_NET\testTextBox1\testTextBox1\bin\Debug\testTextBox1.exe
+D:\VB_NET\testTextBox1\testTextBox1\bin\Debug\testTextBox1.pdb
+D:\VB_NET\testTextBox1\testTextBox1\bin\Debug\testTextBox1.xml
+D:\VB_NET\testTextBox1\testTextBox1\obj\x86\Debug\testTextBox1.Form1.resources
+D:\VB_NET\testTextBox1\testTextBox1\obj\x86\Debug\testTextBox1.Resources.resources
+D:\VB_NET\testTextBox1\testTextBox1\obj\x86\Debug\testTextBox1.vbproj.GenerateResource.Cache
+D:\VB_NET\testTextBox1\testTextBox1\obj\x86\Debug\testTextBox1.exe
+D:\VB_NET\testTextBox1\testTextBox1\obj\x86\Debug\testTextBox1.xml
+D:\VB_NET\testTextBox1\testTextBox1\obj\x86\Debug\testTextBox1.pdb

@@ -1,0 +1,9 @@
+D:\VB_NET\testStructure\testStructure\bin\Debug\testStructure.exe
+D:\VB_NET\testStructure\testStructure\bin\Debug\testStructure.pdb
+D:\VB_NET\testStructure\testStructure\bin\Debug\testStructure.xml
+D:\VB_NET\testStructure\testStructure\obj\x86\Debug\testStructure.Form1.resources
+D:\VB_NET\testStructure\testStructure\obj\x86\Debug\testStructure.Resources.resources
+D:\VB_NET\testStructure\testStructure\obj\x86\Debug\testStructure.vbproj.GenerateResource.Cache
+D:\VB_NET\testStructure\testStructure\obj\x86\Debug\testStructure.exe
+D:\VB_NET\testStructure\testStructure\obj\x86\Debug\testStructure.xml
+D:\VB_NET\testStructure\testStructure\obj\x86\Debug\testStructure.pdb

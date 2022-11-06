@@ -1,0 +1,9 @@
+D:\VB_NET\testButton\testButton\bin\Debug\testButton.exe
+D:\VB_NET\testButton\testButton\bin\Debug\testButton.pdb
+D:\VB_NET\testButton\testButton\bin\Debug\testButton.xml
+D:\VB_NET\testButton\testButton\obj\x86\Debug\testButton.Form1.resources
+D:\VB_NET\testButton\testButton\obj\x86\Debug\testButton.Resources.resources
+D:\VB_NET\testButton\testButton\obj\x86\Debug\testButton.vbproj.GenerateResource.Cache
+D:\VB_NET\testButton\testButton\obj\x86\Debug\testButton.exe
+D:\VB_NET\testButton\testButton\obj\x86\Debug\testButton.xml
+D:\VB_NET\testButton\testButton\obj\x86\Debug\testButton.pdb

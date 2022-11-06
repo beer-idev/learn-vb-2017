@@ -1,0 +1,9 @@
+D:\VB_NET\testMsgBox\testMsgBox\bin\Debug\testMsgBox.exe
+D:\VB_NET\testMsgBox\testMsgBox\bin\Debug\testMsgBox.pdb
+D:\VB_NET\testMsgBox\testMsgBox\bin\Debug\testMsgBox.xml
+D:\VB_NET\testMsgBox\testMsgBox\obj\x86\Debug\testMsgBox.Form1.resources
+D:\VB_NET\testMsgBox\testMsgBox\obj\x86\Debug\testMsgBox.Resources.resources
+D:\VB_NET\testMsgBox\testMsgBox\obj\x86\Debug\testMsgBox.vbproj.GenerateResource.Cache
+D:\VB_NET\testMsgBox\testMsgBox\obj\x86\Debug\testMsgBox.exe
+D:\VB_NET\testMsgBox\testMsgBox\obj\x86\Debug\testMsgBox.xml
+D:\VB_NET\testMsgBox\testMsgBox\obj\x86\Debug\testMsgBox.pdb

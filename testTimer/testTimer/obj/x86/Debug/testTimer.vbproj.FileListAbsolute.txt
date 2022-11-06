@@ -1,0 +1,9 @@
+D:\VB_NET\testTimer\testTimer\bin\Debug\testTimer.exe
+D:\VB_NET\testTimer\testTimer\bin\Debug\testTimer.pdb
+D:\VB_NET\testTimer\testTimer\bin\Debug\testTimer.xml
+D:\VB_NET\testTimer\testTimer\obj\x86\Debug\testTimer.Form1.resources
+D:\VB_NET\testTimer\testTimer\obj\x86\Debug\testTimer.Resources.resources
+D:\VB_NET\testTimer\testTimer\obj\x86\Debug\testTimer.vbproj.GenerateResource.Cache
+D:\VB_NET\testTimer\testTimer\obj\x86\Debug\testTimer.exe
+D:\VB_NET\testTimer\testTimer\obj\x86\Debug\testTimer.xml
+D:\VB_NET\testTimer\testTimer\obj\x86\Debug\testTimer.pdb

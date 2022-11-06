@@ -1,0 +1,9 @@
+D:\VB_NET\testSearching\testSearching\bin\Debug\testSearching.exe
+D:\VB_NET\testSearching\testSearching\bin\Debug\testSearching.pdb
+D:\VB_NET\testSearching\testSearching\bin\Debug\testSearching.xml
+D:\VB_NET\testSearching\testSearching\obj\x86\Debug\testSearching.Form1.resources
+D:\VB_NET\testSearching\testSearching\obj\x86\Debug\testSearching.Resources.resources
+D:\VB_NET\testSearching\testSearching\obj\x86\Debug\testSearching.vbproj.GenerateResource.Cache
+D:\VB_NET\testSearching\testSearching\obj\x86\Debug\testSearching.exe
+D:\VB_NET\testSearching\testSearching\obj\x86\Debug\testSearching.xml
+D:\VB_NET\testSearching\testSearching\obj\x86\Debug\testSearching.pdb

@@ -1,0 +1,18 @@
+C:\Users\user\AppData\Local\Temporary Projects\testArray\bin\Debug\testArray.exe
+C:\Users\user\AppData\Local\Temporary Projects\testArray\bin\Debug\testArray.pdb
+C:\Users\user\AppData\Local\Temporary Projects\testArray\bin\Debug\testArray.xml
+C:\Users\user\AppData\Local\Temporary Projects\testArray\obj\x86\Debug\testArray.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\testArray\obj\x86\Debug\testArray.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\testArray\obj\x86\Debug\testArray.vbproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\testArray\obj\x86\Debug\testArray.exe
+C:\Users\user\AppData\Local\Temporary Projects\testArray\obj\x86\Debug\testArray.xml
+C:\Users\user\AppData\Local\Temporary Projects\testArray\obj\x86\Debug\testArray.pdb
+D:\VB_NET\testArray\testArray\obj\x86\Debug\testArray.exe
+D:\VB_NET\testArray\testArray\obj\x86\Debug\testArray.xml
+D:\VB_NET\testArray\testArray\obj\x86\Debug\testArray.pdb
+D:\VB_NET\testArray\testArray\bin\Debug\testArray.exe
+D:\VB_NET\testArray\testArray\bin\Debug\testArray.pdb
+D:\VB_NET\testArray\testArray\bin\Debug\testArray.xml
+D:\VB_NET\testArray\testArray\obj\x86\Debug\testArray.Form1.resources
+D:\VB_NET\testArray\testArray\obj\x86\Debug\testArray.Resources.resources
+D:\VB_NET\testArray\testArray\obj\x86\Debug\testArray.vbproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+D:\VB_NET\testQueue\testQueue\bin\Debug\testQueue.exe
+D:\VB_NET\testQueue\testQueue\bin\Debug\testQueue.pdb
+D:\VB_NET\testQueue\testQueue\bin\Debug\testQueue.xml
+D:\VB_NET\testQueue\testQueue\obj\x86\Debug\testQueue.Form1.resources
+D:\VB_NET\testQueue\testQueue\obj\x86\Debug\testQueue.Resources.resources
+D:\VB_NET\testQueue\testQueue\obj\x86\Debug\testQueue.vbproj.GenerateResource.Cache
+D:\VB_NET\testQueue\testQueue\obj\x86\Debug\testQueue.exe
+D:\VB_NET\testQueue\testQueue\obj\x86\Debug\testQueue.xml
+D:\VB_NET\testQueue\testQueue\obj\x86\Debug\testQueue.pdb

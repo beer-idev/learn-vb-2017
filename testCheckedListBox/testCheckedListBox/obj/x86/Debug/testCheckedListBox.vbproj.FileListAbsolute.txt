@@ -1,0 +1,9 @@
+D:\VB_NET\testCheckedListBox\testCheckedListBox\bin\Debug\testCheckedListBox.exe
+D:\VB_NET\testCheckedListBox\testCheckedListBox\bin\Debug\testCheckedListBox.pdb
+D:\VB_NET\testCheckedListBox\testCheckedListBox\bin\Debug\testCheckedListBox.xml
+D:\VB_NET\testCheckedListBox\testCheckedListBox\obj\x86\Debug\testCheckedListBox.Form1.resources
+D:\VB_NET\testCheckedListBox\testCheckedListBox\obj\x86\Debug\testCheckedListBox.Resources.resources
+D:\VB_NET\testCheckedListBox\testCheckedListBox\obj\x86\Debug\testCheckedListBox.vbproj.GenerateResource.Cache
+D:\VB_NET\testCheckedListBox\testCheckedListBox\obj\x86\Debug\testCheckedListBox.exe
+D:\VB_NET\testCheckedListBox\testCheckedListBox\obj\x86\Debug\testCheckedListBox.xml
+D:\VB_NET\testCheckedListBox\testCheckedListBox\obj\x86\Debug\testCheckedListBox.pdb

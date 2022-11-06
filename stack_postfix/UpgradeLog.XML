@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="stack_postfix">
+</Property><Property Name="Solution File" Value="C:\Users\User\Desktop\stack_postfix\stack_postfix.sln">
+</Property><Property Name="User Options File" Value="C:\Users\User\Desktop\stack_postfix\stack_postfix.suo">
+</Property><Property Name="Date" Value="31 July 2017">
+</Property><Property Name="Time" Value="14:31">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="stack_postfix.sln" Description="File successfully backed up as C:\Users\User\Desktop\stack_postfix\Backup\stack_postfix.sln">
+</Event><Event ErrorLevel="0" Project="" Source="stack_postfix.suo" Description="File successfully backed up as C:\Users\User\Desktop\stack_postfix\Backup\stack_postfix.suo">
+</Event><Event ErrorLevel="0" Project="stack_postfix" Source="stack_postfix\stack_postfix.vbproj" Description="Project file successfully backed up as C:\Users\User\Desktop\stack_postfix\Backup\stack_postfix\stack_postfix.vbproj">
+</Event><Event ErrorLevel="0" Project="stack_postfix" Source="stack_postfix\Form1.vb" Description="File successfully backed up as C:\Users\User\Desktop\stack_postfix\Backup\stack_postfix\Form1.vb">
+</Event><Event ErrorLevel="0" Project="stack_postfix" Source="stack_postfix\Form1.Designer.vb" Description="File successfully backed up as C:\Users\User\Desktop\stack_postfix\Backup\stack_postfix\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="stack_postfix" Source="stack_postfix\My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Users\User\Desktop\stack_postfix\Backup\stack_postfix\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="stack_postfix" Source="stack_postfix\My Project\Application.Designer.vb" Description="File successfully backed up as C:\Users\User\Desktop\stack_postfix\Backup\stack_postfix\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="stack_postfix" Source="stack_postfix\My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Users\User\Desktop\stack_postfix\Backup\stack_postfix\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="stack_postfix" Source="stack_postfix\My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Users\User\Desktop\stack_postfix\Backup\stack_postfix\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="stack_postfix" Source="stack_postfix\My Project\Application.myapp" Description="File successfully backed up as C:\Users\User\Desktop\stack_postfix\Backup\stack_postfix\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="stack_postfix" Source="stack_postfix\My Project\Settings.settings" Description="File successfully backed up as C:\Users\User\Desktop\stack_postfix\Backup\stack_postfix\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="stack_postfix" Source="stack_postfix\Form1.resx" Description="File successfully backed up as C:\Users\User\Desktop\stack_postfix\Backup\stack_postfix\Form1.resx">
+</Event><Event ErrorLevel="0" Project="stack_postfix" Source="stack_postfix\My Project\Resources.resx" Description="File successfully backed up as C:\Users\User\Desktop\stack_postfix\Backup\stack_postfix\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="stack_postfix" Source="stack_postfix\stack_postfix.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="stack_postfix" Source="stack_postfix\stack_postfix.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="stack_postfix.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="stack_postfix.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="stack_postfix" Source="stack_postfix\stack_postfix.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

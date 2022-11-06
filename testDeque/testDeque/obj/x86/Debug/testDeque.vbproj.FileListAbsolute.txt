@@ -1,0 +1,9 @@
+D:\VB_NET\testDeque\testDeque\bin\Debug\testDeque.exe
+D:\VB_NET\testDeque\testDeque\bin\Debug\testDeque.pdb
+D:\VB_NET\testDeque\testDeque\bin\Debug\testDeque.xml
+D:\VB_NET\testDeque\testDeque\obj\x86\Debug\testDeque.Form1.resources
+D:\VB_NET\testDeque\testDeque\obj\x86\Debug\testDeque.Resources.resources
+D:\VB_NET\testDeque\testDeque\obj\x86\Debug\testDeque.vbproj.GenerateResource.Cache
+D:\VB_NET\testDeque\testDeque\obj\x86\Debug\testDeque.exe
+D:\VB_NET\testDeque\testDeque\obj\x86\Debug\testDeque.xml
+D:\VB_NET\testDeque\testDeque\obj\x86\Debug\testDeque.pdb

@@ -1,0 +1,9 @@
+D:\VB_NET\testFunction\testFunction\bin\Debug\testFunction.exe
+D:\VB_NET\testFunction\testFunction\bin\Debug\testFunction.pdb
+D:\VB_NET\testFunction\testFunction\bin\Debug\testFunction.xml
+D:\VB_NET\testFunction\testFunction\obj\x86\Debug\testFunction.Form1.resources
+D:\VB_NET\testFunction\testFunction\obj\x86\Debug\testFunction.Resources.resources
+D:\VB_NET\testFunction\testFunction\obj\x86\Debug\testFunction.vbproj.GenerateResource.Cache
+D:\VB_NET\testFunction\testFunction\obj\x86\Debug\testFunction.exe
+D:\VB_NET\testFunction\testFunction\obj\x86\Debug\testFunction.xml
+D:\VB_NET\testFunction\testFunction\obj\x86\Debug\testFunction.pdb

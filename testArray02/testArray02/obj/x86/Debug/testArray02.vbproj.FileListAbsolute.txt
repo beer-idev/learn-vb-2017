@@ -1,0 +1,9 @@
+D:\VB_NET\testArray02\testArray02\bin\Debug\testArray02.exe
+D:\VB_NET\testArray02\testArray02\bin\Debug\testArray02.pdb
+D:\VB_NET\testArray02\testArray02\bin\Debug\testArray02.xml
+D:\VB_NET\testArray02\testArray02\obj\x86\Debug\testArray02.Form1.resources
+D:\VB_NET\testArray02\testArray02\obj\x86\Debug\testArray02.Resources.resources
+D:\VB_NET\testArray02\testArray02\obj\x86\Debug\testArray02.vbproj.GenerateResource.Cache
+D:\VB_NET\testArray02\testArray02\obj\x86\Debug\testArray02.exe
+D:\VB_NET\testArray02\testArray02\obj\x86\Debug\testArray02.xml
+D:\VB_NET\testArray02\testArray02\obj\x86\Debug\testArray02.pdb

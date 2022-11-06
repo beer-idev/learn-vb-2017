@@ -1,0 +1,9 @@
+D:\VB_NET\testArabik\testArabik\bin\Debug\testArabik.exe
+D:\VB_NET\testArabik\testArabik\bin\Debug\testArabik.pdb
+D:\VB_NET\testArabik\testArabik\bin\Debug\testArabik.xml
+D:\VB_NET\testArabik\testArabik\obj\x86\Debug\testArabik.Form1.resources
+D:\VB_NET\testArabik\testArabik\obj\x86\Debug\testArabik.Resources.resources
+D:\VB_NET\testArabik\testArabik\obj\x86\Debug\testArabik.vbproj.GenerateResource.Cache
+D:\VB_NET\testArabik\testArabik\obj\x86\Debug\testArabik.exe
+D:\VB_NET\testArabik\testArabik\obj\x86\Debug\testArabik.xml
+D:\VB_NET\testArabik\testArabik\obj\x86\Debug\testArabik.pdb
